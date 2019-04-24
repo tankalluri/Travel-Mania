@@ -1,0 +1,27 @@
+{
+  "name": "webdesign_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://RAJ8@bitbucket.org/RAJ8/webdesign_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/RAJ8/webdesign_backend#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "email-validator": "^2.0.4",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20",
+    "nodemon": "^1.18.10",
+    "password-validator": "^4.1.1",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
